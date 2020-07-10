@@ -1,7 +1,7 @@
 # Perfil do professor de Engenharia de Sofware no Brasil!
 
 
-## 1. Familiaridade com conteúdo 
+## 1. Familiaridade com conteúdo. 
 ### 1.1 Há quanto tempo você leciona a disciplina Engenharia de Software?
  _Marcar apenas uma oval._ 
 ```markdown
@@ -11,30 +11,74 @@
 ( ) De 06 a 10 anos 
 ( ) Acima de 10 anos
 ```
+### 1.2 Eu detenho o conhecimento sobre Requisitos de Software.
+_Marcar apenas uma oval._ 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+( ) Discordo totalmente
+( ) Discordo parcialmente
+( ) Não concordo nem discordo
+( ) Concordo parcialmente
+( ) Concordo totalmente
 ```
+### 1.3 Eu detenho o conhecimento sobre Projeto/Arquitetura de Software.
+_Marcar apenas uma oval._ 
+```markdown
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+( ) Discordo totalmente
+( ) Discordo parcialmente
+( ) Não concordo nem discordo
+( ) Concordo parcialmente
+( ) Concordo totalmente
 
-### Jekyll Themes
+### 1.4 Eu detenho o conhecimento sobre Construção de Software.
+_Marcar apenas uma oval._ 
+```markdown
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/floss2020/questionario/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+( ) Discordo totalmente
+( ) Discordo parcialmente
+( ) Não concordo nem discordo
+( ) Concordo parcialmente
+( ) Concordo totalmente
 
-### Support or Contact
+### 1.5 Eu detenho o conhecimento sobre Teste de Software.
+_Marcar apenas uma oval._ 
+```markdown
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+( ) Discordo totalmente
+( ) Discordo parcialmente
+( ) Não concordo nem discordo
+( ) Concordo parcialmente
+( ) Concordo totalmente
+
+### 1.6 Eu detenho o conhecimento sobre Evolução/Manutenção de Software.
+_Marcar apenas uma oval._ 
+```markdown
+
+( ) Discordo totalmente
+( ) Discordo parcialmente
+( ) Não concordo nem discordo
+( ) Concordo parcialmente
+( ) Concordo totalmente
+
+### 1.7 Eu detenho o conhecimento sobre Gerenciamento de Configuração.
+_Marcar apenas uma oval._ 
+```markdown
+
+( ) Discordo totalmente
+( ) Discordo parcialmente
+( ) Não concordo nem discordo
+( ) Concordo parcialmente
+( ) Concordo totalmente
+
+### 1.8 Eu detenho o conhecimento sobre Qualidade de Software.
+_Marcar apenas uma oval._ 
+```markdown
+
+( ) Discordo totalmente
+( ) Discordo parcialmente
+( ) Não concordo nem discordo
+( ) Concordo parcialmente
+( ) Concordo totalmente
+
+## 2. Familiaridade com métodos e recursos pedagógicos
