@@ -142,7 +142,7 @@ _Marcar apenas uma oval._
 
 ```
 
-### 2.6 Meus alunos utilizam um sistema de controle de versões na prática de conteúdos de Engenharia de Software.
+### 2.5 Meus alunos utilizam um sistema de controle de versões na prática de conteúdos de Engenharia de Software.
 _Marcar apenas uma oval._ 
 ```markdown
 ( ) Sempre
@@ -153,7 +153,7 @@ _Marcar apenas uma oval._
 
 ```
 
-### 2.5 Meus alunos lidam com software de terceiros para prática de conteúdos de Engenharia de Software.
+### 2.6 Meus alunos lidam com software de terceiros para prática de conteúdos de Engenharia de Software.
 _Marcar apenas uma oval._ 
 ```markdown
 ( ) Sempre
@@ -164,3 +164,24 @@ _Marcar apenas uma oval._
 
 ```
 ## 3. Familiaridade com FLOSS
+
+### 3.1 Quão familiarizado você está com os conceitos relacionados a FLOSS (Free/Libre/Open Source Software)?
+_Marcar apenas uma oval._ 
+```markdown
+( ) Não estou familiarizado com conceitos sobre FLOSS
+( ) Leio notícias e/ou artigos (inclusive científicos) relacionados a FLOSS
+( ) Além de conhecer os conceitos, contribuo(i) com projetos FLOSS
+
+```
+
+### 3.2 Como você avalia sua experiência com projetos FLOSS?
+_Marcar apenas uma oval._ 
+```markdown
+( ) Tenho conhecimento sobre o assunto
+( ) Utilizo projetos FLOSS
+( ) Contribuo ocasionalmente com projetos FLOSS
+( ) Contribuo ou já contribuí regularmente com projetos FLOSS
+( ) Outro:____________________________________________
+
+```
+## 3.2 Uso de FLOSS no ensino de Engenharia de Software
