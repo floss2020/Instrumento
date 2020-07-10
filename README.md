@@ -369,7 +369,7 @@ _Marcar apenas uma oval._
 
 ```
 ### 6.5 Países ou regiões em que você lecionou Engenharia de Software na graduação:
-_Marque todas que se aplicam.._ 
+_Marque todas que se aplicam._ 
 ```markdown
 ( ) Brasil
 ( ) Outro(s) país(es) da América do Sul
@@ -378,4 +378,41 @@ _Marque todas que se aplicam.._
 ( ) Outro: _____________________________
 ```
 
-# Formulario de Validação do Instrumento
+# Avaliação do Questionário “Perfl do professor de Engenharia
+
+### 1. Sua opinião em relação à organização do questionário:
+__Marcar apenas uma oval._ 
+```markdown
+( ) Totalmente satisfeito
+( ) Parcialmente satisfeito
+( ) Nem satisfeito, nem insatisfeito
+( ) Parcialmente Insatisfeito
+( ) Totalmente Insatisfeito
+```
+### 2. Sua opinião em relação à objetividade das questões:
+__Marcar apenas uma oval._ 
+```markdown
+( ) Totalmente satisfeito
+( ) Parcialmente satisfeito
+( ) Nem satisfeito, nem insatisfeito
+( ) Parcialmente Insatisfeito
+( ) Totalmente Insatisfeito
+```
+### 3. Sua opinião em relação à facilidade de leitura e compreensão do conteúdo:
+__Marcar apenas uma oval._ 
+```markdown
+( ) Totalmente satisfeito
+( ) Parcialmente satisfeito
+( ) Nem satisfeito, nem insatisfeito
+( ) Parcialmente Insatisfeito
+( ) Totalmente Insatisfeito
+```
+### 4. Sua opinião em relação à adequação e relevância das questões:
+__Marcar apenas uma oval._ 
+```markdown
+( ) Totalmente satisfeito
+( ) Parcialmente satisfeito
+( ) Nem satisfeito, nem insatisfeito
+( ) Parcialmente Insatisfeito
+( ) Totalmente Insatisfeito
+```
