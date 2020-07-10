@@ -82,3 +82,85 @@ _Marcar apenas uma oval._
 ( ) Concordo totalmente
 ```
 ## 2. Familiaridade com métodos e recursos pedagógicos
+
+### 2.1 Qual(is) abordagem(ns) de aprendizagem você utilizou(a) no ensino de Engenharia de Software?
+_Marque todas que se aplicam._ 
+```markdown
+( ) Aprendizagem ativa (geral): “Termo geral que se refere a vários modelos de educação que
+enfocam a responsabilidade de aprender sobre os alunos.”
+
+( ) Aprendizagem baseada em Problema/Projeto/Investigação: “Uma coleção de abordagens
+que usam projetos ou problemas para conduzir o processo de aprendizado. Os alunos aprendem
+sobre um assunto através da experiência de resolução de problemas, trabalhando em grupos
+com a ajuda de facilitadores. A avaliação é baseada em desempenho e autêntica.”
+
+( ) Aprendizagem baseada em casos: “Abordagem onde os alunos desenvolvem habilidades
+em pensamento analítico e julgamento reflexivo, lendo e discutindo cenários complexos da vida
+real. Um caso já está organizado e sintetizado para os alunos.”
+
+( ) Aprendizagem baseada em jogos: “Aprendizagem que envolve alunos em algum tipo de
+competição ou conquista em relação a um objetivo educacional. Tenta aumentar a motivação do
+aluno, proporcionando um ambiente lúdico.”
+
+( ) Outro:____________________________________________
+
+```
+
+### 2.2 Quais os tipos de avaliação você utilizou(a) em sala de aula?
+_Marque todas que se aplicam._ 
+```markdown
+( ) Exames/Provas
+( ) Relatórios
+( ) Artefatos de software
+( ) Entrevistas
+( ) Seminários
+( ) Exercícios
+( ) Pesquisas sobre tópicos de ES
+( ) Participação em discussões
+( ) Outro:____________________________________________
+
+```
+### 2.3 Projetos são desenvolvidos pelos meus alunos para que pratiquem os conteúdos de Engenharia de Software.
+_Marcar apenas uma oval._ 
+```markdown
+( ) Sempre
+( ) Frequentemente
+( ) Ocasionalmente
+( ) Raramente
+( ) Nunca
+
+```
+
+### 2.4 Meus alunos se relacionam com clientes/usuários para prática de conteúdos de Engenharia de Software.
+_Marcar apenas uma oval._ 
+```markdown
+( ) Sempre
+( ) Frequentemente
+( ) Ocasionalmente
+( ) Raramente
+( ) Nunca
+
+```
+
+### 2.6 Meus alunos utilizam um sistema de controle de versões na prática de conteúdos de Engenharia de Software.
+_Marcar apenas uma oval._ 
+```markdown
+( ) Sempre
+( ) Frequentemente
+( ) Ocasionalmente
+( ) Raramente
+( ) Nunca
+
+```
+
+### 2.5 Meus alunos lidam com software de terceiros para prática de conteúdos de Engenharia de Software.
+_Marcar apenas uma oval._ 
+```markdown
+( ) Sempre
+( ) Frequentemente
+( ) Ocasionalmente
+( ) Raramente
+( ) Nunca
+
+```
+## 3. Familiaridade com FLOSS
