@@ -1,12 +1,15 @@
-## Perfil do professor de Engenharia de Sofware no Brasil!
+# Perfil do professor de Engenharia de Sofware no Brasil!
 
 
-### Questionário
-
+## 1. Familiaridade com conteúdo 
+### 1.1 Há quanto tempo você leciona a disciplina Engenharia de Software?
+ _Marcar apenas uma oval._ 
 ```markdown
-# 1. Familiaridade com conteúdo
-## 1.1 Há quanto tempo você leciona a disciplina Engenharia de Software?
 
+( ) Menos de 01 ano
+( ) De 01 a 05 anos
+( ) De 06 a 10 anos 
+( ) Acima de 10 anos
 ```
 ```markdown
 Syntax highlighted code block
