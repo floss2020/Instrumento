@@ -30,7 +30,7 @@ _Marcar apenas uma oval._
 ( ) Não concordo nem discordo
 ( ) Concordo parcialmente
 ( ) Concordo totalmente
-
+```
 ### 1.4 Eu detenho o conhecimento sobre Construção de Software.
 _Marcar apenas uma oval._ 
 ```markdown
@@ -40,7 +40,7 @@ _Marcar apenas uma oval._
 ( ) Não concordo nem discordo
 ( ) Concordo parcialmente
 ( ) Concordo totalmente
-
+```
 ### 1.5 Eu detenho o conhecimento sobre Teste de Software.
 _Marcar apenas uma oval._ 
 ```markdown
@@ -50,7 +50,7 @@ _Marcar apenas uma oval._
 ( ) Não concordo nem discordo
 ( ) Concordo parcialmente
 ( ) Concordo totalmente
-
+```
 ### 1.6 Eu detenho o conhecimento sobre Evolução/Manutenção de Software.
 _Marcar apenas uma oval._ 
 ```markdown
@@ -60,7 +60,7 @@ _Marcar apenas uma oval._
 ( ) Não concordo nem discordo
 ( ) Concordo parcialmente
 ( ) Concordo totalmente
-
+```
 ### 1.7 Eu detenho o conhecimento sobre Gerenciamento de Configuração.
 _Marcar apenas uma oval._ 
 ```markdown
@@ -70,7 +70,7 @@ _Marcar apenas uma oval._
 ( ) Não concordo nem discordo
 ( ) Concordo parcialmente
 ( ) Concordo totalmente
-
+```
 ### 1.8 Eu detenho o conhecimento sobre Qualidade de Software.
 _Marcar apenas uma oval._ 
 ```markdown
@@ -80,5 +80,5 @@ _Marcar apenas uma oval._
 ( ) Não concordo nem discordo
 ( ) Concordo parcialmente
 ( ) Concordo totalmente
-
+```
 ## 2. Familiaridade com métodos e recursos pedagógicos
